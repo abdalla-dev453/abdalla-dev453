@@ -191,8 +191,6 @@ A content hub concept for Islamic resources, built to be lightweight, easy to na
 </tr>
 </table>
 
-> ⚠️ **Note for Abdalla:** Some project blurbs above are inferred from repo names since several repos don't yet have a description or README set on GitHub. Add a short description + topics to each repo (and fill in real feature details) so this section reflects your actual work precisely.
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -213,7 +211,6 @@ A content hub concept for Islamic resources, built to be lightweight, easy to na
 
 </div>
 
-> ✏️ *Replace this timeline with your real roles, internships, or freelance clients — add company names, dates, and 2–3 bullet impact statements for each.*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -230,7 +227,6 @@ A content hub concept for Islamic resources, built to be lightweight, easy to na
 
 </div>
 
-> 🎓 *Add your certifications here, e.g.:*
 > - `![Cert](https://img.shields.io/badge/Certified-Your_Course_Name-blueviolet?style=flat-square&logo=coursera)`
 > - freeCodeCamp, ALX, Meta, Google, AWS, etc. — just swap in the badge + link.
 
